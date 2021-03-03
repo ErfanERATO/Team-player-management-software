@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 
 namespace TestConsol
 {
-    class Program
+    class Main
     {
         static List<Player> teamList = new List<Player>();
         static void Main(string[] args)
